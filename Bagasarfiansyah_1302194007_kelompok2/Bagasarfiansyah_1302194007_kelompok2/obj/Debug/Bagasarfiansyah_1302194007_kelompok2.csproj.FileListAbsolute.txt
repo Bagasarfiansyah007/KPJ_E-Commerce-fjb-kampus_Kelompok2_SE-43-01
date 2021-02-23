@@ -1,0 +1,10 @@
+D:\materi kuliah\Semester 4 MEMATIKAN !\Konstruk\file praktikum\Bagasarfiansyah_1302194007_kelompok2\Bagasarfiansyah_1302194007_kelompok2\bin\Debug\Bagasarfiansyah_1302194007_kelompok2.exe.config
+D:\materi kuliah\Semester 4 MEMATIKAN !\Konstruk\file praktikum\Bagasarfiansyah_1302194007_kelompok2\Bagasarfiansyah_1302194007_kelompok2\bin\Debug\Bagasarfiansyah_1302194007_kelompok2.exe
+D:\materi kuliah\Semester 4 MEMATIKAN !\Konstruk\file praktikum\Bagasarfiansyah_1302194007_kelompok2\Bagasarfiansyah_1302194007_kelompok2\bin\Debug\Bagasarfiansyah_1302194007_kelompok2.pdb
+D:\materi kuliah\Semester 4 MEMATIKAN !\Konstruk\file praktikum\Bagasarfiansyah_1302194007_kelompok2\Bagasarfiansyah_1302194007_kelompok2\obj\Debug\Bagasarfiansyah_1302194007_kelompok2.csprojAssemblyReference.cache
+D:\materi kuliah\Semester 4 MEMATIKAN !\Konstruk\file praktikum\Bagasarfiansyah_1302194007_kelompok2\Bagasarfiansyah_1302194007_kelompok2\obj\Debug\Bagasarfiansyah_1302194007_kelompok2.Form1.resources
+D:\materi kuliah\Semester 4 MEMATIKAN !\Konstruk\file praktikum\Bagasarfiansyah_1302194007_kelompok2\Bagasarfiansyah_1302194007_kelompok2\obj\Debug\Bagasarfiansyah_1302194007_kelompok2.Properties.Resources.resources
+D:\materi kuliah\Semester 4 MEMATIKAN !\Konstruk\file praktikum\Bagasarfiansyah_1302194007_kelompok2\Bagasarfiansyah_1302194007_kelompok2\obj\Debug\Bagasarfiansyah_1302194007_kelompok2.csproj.GenerateResource.cache
+D:\materi kuliah\Semester 4 MEMATIKAN !\Konstruk\file praktikum\Bagasarfiansyah_1302194007_kelompok2\Bagasarfiansyah_1302194007_kelompok2\obj\Debug\Bagasarfiansyah_1302194007_kelompok2.csproj.CoreCompileInputs.cache
+D:\materi kuliah\Semester 4 MEMATIKAN !\Konstruk\file praktikum\Bagasarfiansyah_1302194007_kelompok2\Bagasarfiansyah_1302194007_kelompok2\obj\Debug\Bagasarfiansyah_1302194007_kelompok2.exe
+D:\materi kuliah\Semester 4 MEMATIKAN !\Konstruk\file praktikum\Bagasarfiansyah_1302194007_kelompok2\Bagasarfiansyah_1302194007_kelompok2\obj\Debug\Bagasarfiansyah_1302194007_kelompok2.pdb
