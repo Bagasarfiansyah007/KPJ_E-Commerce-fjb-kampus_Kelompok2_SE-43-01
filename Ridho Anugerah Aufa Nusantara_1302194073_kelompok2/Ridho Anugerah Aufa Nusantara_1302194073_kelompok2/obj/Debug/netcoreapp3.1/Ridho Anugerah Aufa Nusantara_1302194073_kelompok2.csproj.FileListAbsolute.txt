@@ -1,0 +1,16 @@
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\bin\Debug\netcoreapp3.1\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.exe
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\bin\Debug\netcoreapp3.1\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.deps.json
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\bin\Debug\netcoreapp3.1\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.runtimeconfig.json
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\bin\Debug\netcoreapp3.1\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.runtimeconfig.dev.json
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\bin\Debug\netcoreapp3.1\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.dll
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\bin\Debug\netcoreapp3.1\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.pdb
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\obj\Debug\netcoreapp3.1\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.csprojAssemblyReference.cache
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\obj\Debug\netcoreapp3.1\Ridho_Anugerah_Aufa_Nusantara_1302194073_kelompok2.Form1.resources
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\obj\Debug\netcoreapp3.1\Ridho_Anugerah_Aufa_Nusantara_1302194073_kelompok2.Properties.Resources.resources
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\obj\Debug\netcoreapp3.1\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.csproj.GenerateResource.cache
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\obj\Debug\netcoreapp3.1\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.AssemblyInfoInputs.cache
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\obj\Debug\netcoreapp3.1\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.AssemblyInfo.cs
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\obj\Debug\netcoreapp3.1\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.csproj.CoreCompileInputs.cache
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\obj\Debug\netcoreapp3.1\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.dll
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\obj\Debug\netcoreapp3.1\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.pdb
+E:\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2\obj\Debug\netcoreapp3.1\Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.genruntimeconfig.cache

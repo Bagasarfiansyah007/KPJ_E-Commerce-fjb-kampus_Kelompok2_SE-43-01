@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ridho Anugerah Aufa Nusantara_1302194073_kelompok2/1.0.0": {
+        "runtime": {
+          "Ridho Anugerah Aufa Nusantara_1302194073_kelompok2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ridho Anugerah Aufa Nusantara_1302194073_kelompok2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
